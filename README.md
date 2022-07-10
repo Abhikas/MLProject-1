@@ -11,3 +11,6 @@ conda activate venv/
 1.Heroku_Email = abhishekraj.kumar2011@gmail.com
 2.Heroku_API_Key = <>
 3.Heroku_App_Name = ml-regression-1
+
+#To run setup file
+python setup.py install
